@@ -1,2 +1,2 @@
 # samplew
-samplining
+samplining the path
